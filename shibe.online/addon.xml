@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.image.shibeonline" name="shibe.online" version="1.0" provider-name="faithvoid">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="default.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary>shibe.online</summary>
+        <description>Make your day brighter by looking at some cats, birds, and shibes!</description>
+        <platform>xbox</platform>
+    </extension>
+</addon>
